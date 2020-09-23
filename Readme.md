@@ -46,4 +46,4 @@ $ yarn dev
 ```
 
 
->> Desenvolvido por Eliomar Sant'Anna, com a tutoria de Diego Fernandes da Rocketseat.
+ Desenvolvido por Eliomar Sant'Anna, com a tutoria de Diego Fernandes da Rocketseat.
